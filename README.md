@@ -42,3 +42,49 @@
 <li></li>
 <li></li>
 </ul>
+
+## User Experience
+
+### Targeted Audience
+
+### User Requirements and Expectations
+
+### User Stories
+
+#### As A User
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+
+#### As A Site Owner
+11. 
+12. 
+13. 
+14. 
+15. 
+
+## Design
+
+### Design Choices
+
+### Color
+
+### Fonts
+
+### Structure
+
+### Wireframes
+
+## Technologies Used
+
+### Languages
+
+### Frameworks and Tools
+
