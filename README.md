@@ -101,6 +101,15 @@
 </ul>
 
 ### Frameworks and Tools
+<ul>
+<li>Balsamiq</li>
+<li>FontAwesome</li>
+<li>Git</li>
+<li>Github</li>
+<li>Gitpod</li>
+<li>Google Fonts</li>
+<li>Windows Paint App</li>
+</ul>
 
 ## Features
 
