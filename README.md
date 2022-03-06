@@ -94,6 +94,11 @@
 ## Technologies Used
 
 ### Languages
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+</ul>
 
 ### Frameworks and Tools
 
