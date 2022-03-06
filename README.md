@@ -48,33 +48,36 @@
 ### Targeted Audience
 <ul>
 <li>Users interested in playing a quick fun quiz.</li>
+<li>Users looking to get a little general knowledge.</li>
 </ul>
 
 ### User Requirements and Expectations
 <ul>
-<li></li>
+<li>All appropriate links are working correctly.</li>
+<li>A simple navigation.</li>
+<li>Answers to be correct.</li>
 </ul>
 
 ### User Stories
 
 #### As A User
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. I expect to be able to play a fun game and maybe learn a little.
+2. I want to be able to Login or Sign up.
+3. I want to be able to play on different devices.
+4. I want to be able to see/join a leaderboard.
+5. I expect the questions to be random.
+6. I want to know how far I am into a game.
+7. I want the correct answers to be accurate.
+8. I want to know my score.
 
 #### As A Site Owner
-11. 
-12. 
-13. 
-14. 
-15. 
+9. I want to provide a leaderboard for users.
+10. I want users to have a little fun.
+11. I want the website to be interactive.
+12. I want all pages and links to work properly.
+13. I want the website to be responsive.
+14. I want users to return from 404 page without using browser back button.
+15. I want users to be able to Login and Sign out.
 
 ## Design
 
