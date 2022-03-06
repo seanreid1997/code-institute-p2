@@ -46,8 +46,14 @@
 ## User Experience
 
 ### Targeted Audience
+<ul>
+<li>Users interested in playing a quick fun quiz.</li>
+</ul>
 
 ### User Requirements and Expectations
+<ul>
+<li></li>
+</ul>
 
 ### User Stories
 
