@@ -87,3 +87,22 @@ h2 {
     transition: transform 150ms;
     transform: scale(1.03);
 }
+
+.btn[disabled]:hover {
+    cursor: not-allowed;
+    box-shadow: none;
+    transform: none;
+}
+
+#highscore-btn {
+    background: rgba(87, 255, 9, 0.877);
+}
+
+#highscore-btn:hover {
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(43, 255, 0, 0.5)
+}
+
+.fa-crown {
+    font-size: 2.5rem;
+    margin-left: 1rem;
+}
