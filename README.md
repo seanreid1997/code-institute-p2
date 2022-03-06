@@ -123,6 +123,8 @@
 
 ### CSS
 
+### Javascript
+
 ### Accessibility
 
 ### Performance
@@ -283,7 +285,6 @@ The site was deployed to GitHub Pages via the following steps:
 <li>From the Source Branch menu seclect Main and save.</li>
 <li>Once complete the page will provide a link to deployed website.</li>
 <li>After a few minutes, refrsh the page and the site will be ready.</li>
-
 </ul>
 
 ## Credits
