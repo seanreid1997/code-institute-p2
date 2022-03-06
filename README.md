@@ -29,18 +29,18 @@
 
 ### User Goals
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>To find a fun little quiz to play.</li>
+<li>To play a game that is interactive.</li>
+<li>To see random questions rather than repetitive ones.</li>
 </ul>
 
 ### Site Owner Goals
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>To provide users with a fun little quiz game.</li>
+<li>To provide a leaderboard for scores to be recorded.</li>
+<li>Website should be interactive and appealing.</li>
+<li>Users to be able to login/Sign up.</li>
+<li>Pages should be responsive.</li>
 </ul>
 
 ## User Experience
