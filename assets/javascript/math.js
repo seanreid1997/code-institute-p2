@@ -105,3 +105,29 @@ function startGame(){
    availableQuestions = [...questions]
    newQuestion();
 }
+
+ /**
+ * Generates a new question
+ */
+  function newQuestion() {
+    if(availableQuestions.length === 0) {
+        localStorage.setItem('mostRecentScore', score);
+        return window.location.assign('end.html');
+    }
+    questionCounter++;
+    progressText.innerText = `Question ${questionCounter} of ${maxQuestions}`;
+    progressBarFull.style.width = `${(questionCounter/maxQuestions) * 100}%`;
+
+    let questionsIndex = Math.floor(Math.random() * availableQuestions.length);
+    currentQuestion = availableQuestions[questionsIndex];
+    question.innerText = currentQuestion.question;
+
+    choices.forEach(choice => {
+        let number = choice.dataset['number']
+        choice.innerText = currentQuestion['choice' + number]
+    })
+
+    availableQuestions.splice(questionsIndex, 1);
+    answers = true;
+}
+
