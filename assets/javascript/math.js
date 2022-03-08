@@ -79,3 +79,29 @@ let questions = [{
         answer: 1,
 }];
 
+/**
+ * Give variables values from maths.html
+ */
+let question = document.querySelector('#question');
+let choices = Array.from(document.querySelectorAll('.choice-text'));
+let progressText = document.querySelector('#progressText');
+let scoreText = document.querySelector('#score');
+let progressBarFull = document.querySelector('#progressBarFull');
+
+let currentQuestion = {};
+let answers = true;
+let score = 0;
+let questionCounter = 0;
+let availableQuestions = [];
+let points = 10;
+let maxQuestions = 10;
+
+/**
+ * Starts the game
+ */
+function startGame(){
+   questionCounter = 0
+   score = 0
+   availableQuestions = [...questions]
+   newQuestion();
+}
