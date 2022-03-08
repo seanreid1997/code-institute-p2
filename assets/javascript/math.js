@@ -107,7 +107,7 @@ function startGame(){
 }
 
  /**
- * Generates a new question
+ * Generates a new random question from the questions array
  */
   function newQuestion() {
     if(availableQuestions.length === 0) {
@@ -131,3 +131,35 @@ function startGame(){
     answers = true;
 }
 
+choices.forEach(choice => {
+    choice.addEventListener('click', e => {
+        if(!answers) return
+
+        answers = false
+        let selectedChoice = e.target
+        let selectedAnswer = selectedChoice.dataset['number']
+        let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
+
+        if(classToApply === 'correct') {
+            incrementScore(points);
+        }
+
+        selectedChoice.parentElement.classList.add(classToApply)
+
+        setTimeout(() => {
+            selectedChoice.parentElement.classList.remove(classToApply)
+            newQuestion()
+
+        }, 100)
+    })
+})
+
+/**
+ * function that Increments the score of the user
+ */
+function incrementScore(num) {
+    score +=num;
+    scoreText.innerText = score;
+}
+
+startGame();
