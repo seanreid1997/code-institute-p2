@@ -85,12 +85,13 @@
 ## Design
 
 ### Design Choices
-
-### Color
+While learning how to make a quiz from the Brian Design youtube channel, I liked the design he showed us and the color schemes as well. I kept the blue color for the buttons but decided i wanted a lighter page so I changed the background color to White and the made the headings black instead.
 
 ### Fonts
+The fonts I used for this project taken from Google fonts.
 
 ### Structure
+Including the youtube tutorial i looked around at examples of different quiz formats and I decided to keep the standard way of structuring questions and choices for answers.
 
 ### Wireframes
 
@@ -116,7 +117,17 @@
 
 ## Features
 
-### Navigation Bar
+### Home Page
+
+### Mathematics Quiz
+
+### General Knowledge Quiz
+
+### Summary Page
+
+### Leaderboard page
+
+### 404 page
 
 ## Testing
 

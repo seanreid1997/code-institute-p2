@@ -41,7 +41,7 @@ let questions = [
         answer: 4,
     },
     {    
-        question: "What is the cpital of Jamaica?",
+        question: "What is the capital of Jamaica?",
         choice1: "London",
         choice2: "Kingston",
         choice3: "Brussels",
