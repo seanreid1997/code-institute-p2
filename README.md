@@ -150,7 +150,7 @@ Including the youtube tutorial i looked around at examples of different quiz for
 <li>The 404 page consists follows the same design as the rest of the website.</li>
 <li>It consists of an error message and a button to return home without using browser back button.</li>
 </ul>
-<img src="docs/validation/indexvalid.jpg"></details>
+<img src="docs/features/404page.jpg"></details>
 
 ## Testing
 
