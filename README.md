@@ -124,7 +124,6 @@ Including the youtube tutorial i looked around at examples of different quiz for
 <li>The body of the page consists of a welcome message and three buttons.</li>
 <li>These three buttons are links to both quizes and the leaderboard.</li>
 </ul>
-<details><summary>Home</summary>
 <img src="docs/features/p2home.jpg"></details>
 
 ### Mathematics Quiz
@@ -133,7 +132,6 @@ Including the youtube tutorial i looked around at examples of different quiz for
 <li>It consists of a progress bar and a score tracker at the top</li>
 <li>Below the progress bar is the question and beneath that are the options(choices) for the users answer.</li>
 </ul>
-<details><summary>Home</summary>
 <img src="docs/features/p2math.jpg"></details>
 
 ### General Knowledge Quiz
