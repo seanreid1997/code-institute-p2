@@ -95,22 +95,22 @@ Including the youtube tutorial i looked around at examples of different quiz for
 
 ### Wireframes
 <details><summary>Home</summary>
-<img src="docs/features/homewireframe.jpg"></details>
+<img src="docs/wireframes/homewireframe.jpg"></details>
 
 <details><summary>Maths</summary>
-<img src="docs/featutres/mathwireframe.jpg"></details>
+<img src="docs/wireframes/mathwireframe.jpg"></details>
 
 <details><summary>General Knowledge</summary>
-<img src="docs/featutres/generalwireframe.jpg"></details>
+<img src="docs/wireframes/generalwireframe.jpg"></details>
 
 <details><summary>Summary</summary>
-<img src="docs/featutres/summarywireframe.jpg"></details>
+<img src="docs/wireframes/summarywireframe.jpg"></details>
 
 <details><summary>404</summary>
-<img src="docs/featutres/404wireframe.jpg"></details>
+<img src="docs/wireframes/404wireframe.jpg"></details>
 
 <details><summary>Leaderboard</summary>
-<img src="docs/featutres/leaderboardwireframe.jpg"></details>
+<img src="docs/wireframes/leaderboardwireframe.jpg"></details>
 
 
 
