@@ -95,6 +95,7 @@ Including the youtube tutorial i looked around at examples of different quiz for
 
 ### Wireframes
 
+
 ## Technologies Used
 
 ### Languages
@@ -153,8 +154,6 @@ Including the youtube tutorial i looked around at examples of different quiz for
 <img src="docs/features/404page.jpg"></details>
 
 ## Testing
-
-### Validation
 
 ### Validation
 
