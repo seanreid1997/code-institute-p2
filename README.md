@@ -145,6 +145,7 @@ The website was tested on the browsers listed below:
 ### Testing User Stories
 
 1. I expect to be able to play a fun game and maybe learn a little.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
