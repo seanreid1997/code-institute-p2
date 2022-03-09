@@ -94,6 +94,20 @@ The fonts I used for this project taken from Google fonts.
 Including the youtube tutorial i looked around at examples of different quiz formats and I decided to keep the standard way of structuring questions and choices for answers.
 
 ### Wireframes
+<details><summary>Home</summary>
+<img src="docs/validation/indexvalid.jpg"></details>
+
+<details><summary>Maths</summary>
+<img src="docs/validation/indexvalid.jpg"></details>
+
+<details><summary>General Knowledge</summary>
+<img src="docs/validation/indexvalid.jpg"></details>
+
+<details><summary>Summary</summary>
+<img src="docs/validation/indexvalid.jpg"></details>
+
+<details><summary>404</summary>
+<img src="docs/validation/indexvalid.jpg"></details>
 
 
 ## Technologies Used
