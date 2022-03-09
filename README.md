@@ -122,15 +122,52 @@
 
 ### Validation
 
-### HTML
+### Validation
+
+#### HTML
+Html was validated via The WC3 Markup Validation Service.
+<details><summary>Home</summary>
+<img src="docs/validation/indexvalid.jpg"></details>
+<details><summary>History</summary>
+<img src="docs/validation/historyvalid.jpg"></details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/galleryvalid.jpg"></details>
+<details><summary>404</summary>
+<img src="docs/404/404valid.jpg"></details>
 
 ### CSS
 
-### Javascript
+Css was validated via The WC3 CSS Validation Service.
+<details><summary>Css</summary>
+<img src="docs/validation/cssvalid.jpg"></details>
 
-### Accessibility
+### Javascript
+Javascript was validated via JSHint JavaScript Validator
+<details><summary>Css</summary>
+<img src="docs/validation/cssvalid.jpg"></details>
+
+### Accessablility
+
+Accessibility was tested via The Wave Web Accessibility Evaluation Tool
+<details><summary>Home</summary>
+<img src="docs/validation/accesshomevalid.jpg"></details>
+<details><summary>History</summary>
+<img src="docs/validation/accesshistoryvalid.jpg"></details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/accessgalleryvalid.jpg"></details>
+<details><summary>404</summary>
+<img src="docs/404/access404valid.jpg"></details>
 
 ### Performance
+
+Performance was tested via Lighthouse from Google Dev Tools
+<details><summary>Home</summary>
+<img src="docs/validation/performanceindex.jpg"></details>
+<details><summary>History</summary>
+<img src="docs/validation/performancehistory.jpg"></details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/performancegallery.jpg"></details>
+
 
 ### Device Testing
 
