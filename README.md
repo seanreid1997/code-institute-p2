@@ -109,6 +109,11 @@ Including the youtube tutorial i looked around at examples of different quiz for
 <details><summary>404</summary>
 <img src="docs/featutres/404wireframe.jpg"></details>
 
+<details><summary>Leaderboard</summary>
+<img src="docs/featutres/leaderboardwireframe.jpg"></details>
+
+
+
 
 ## Technologies Used
 
