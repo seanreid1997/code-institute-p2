@@ -23,7 +23,7 @@
 9. [Credits](#credits)
 10. [Acknowledgements](#acknowledgements)
 
-# Online Quiz
+# Sean's Games
 (Developer: Sean Reid)
 
 <img src="">
