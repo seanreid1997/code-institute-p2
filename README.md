@@ -95,13 +95,13 @@ Including the youtube tutorial i looked around at examples of different quiz for
 
 ### Wireframes
 <details><summary>Home</summary>
-<img src="docs/validation/indexvalid.jpg"></details>
+<img src="docs/features/homewireframe.jpg"></details>
 
 <details><summary>Maths</summary>
-<img src="docs/validation/indexvalid.jpg"></details>
+<img src="docs/featutres/mathwireframe.jpg"></details>
 
 <details><summary>General Knowledge</summary>
-<img src="docs/validation/indexvalid.jpg"></details>
+<img src="docs/featutres/generalwireframe.jpg"></details>
 
 <details><summary>Summary</summary>
 <img src="docs/validation/indexvalid.jpg"></details>
