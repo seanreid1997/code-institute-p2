@@ -135,6 +135,11 @@ Including the youtube tutorial i looked around at examples of different quiz for
 <img src="docs/features/p2math.jpg"></details>
 
 ### General Knowledge Quiz
+<ul>
+<li>The general knowledge quiz is structured in the same way as the maths quiz.</li>
+<li>It consists of a progress bar, score tracker, a question and 4 options for answers.</li>
+</ul>
+<img src="docs/features/p2general.jpg"></details>
 
 ### Summary Page
 
