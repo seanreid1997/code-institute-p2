@@ -187,13 +187,48 @@ The website was tested on the browsers listed below:
 <img src="docs/ustesting/ustest1.jpg"></details>
 
 7. I want the correct answers to be accurate.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 8. I want to know my score.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
 
 #### As A Site Owner
 9. I want to provide a leaderboard for users.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 10. I want users to have a little fun.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 11. I want the website to be interactive.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 12. I want all pages and links to work properly.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 13. I want the website to be responsive.
 14. I want users to return from 404 page without using browser back button.
 15. I want users to be able to Login and Sign out.
