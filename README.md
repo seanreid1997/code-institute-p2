@@ -104,7 +104,7 @@ Including the youtube tutorial i looked around at examples of different quiz for
 <img src="docs/featutres/generalwireframe.jpg"></details>
 
 <details><summary>Summary</summary>
-<img src="docs/validation/indexvalid.jpg"></details>
+<img src="docs/featutres/summarywireframe.jpg"></details>
 
 <details><summary>404</summary>
 <img src="docs/validation/indexvalid.jpg"></details>
