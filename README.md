@@ -250,13 +250,6 @@ The website was tested on the browsers listed below:
 <details><summary>Screenshots</summary>
 <img src="docs/ustesting/ustest1.jpg"></details>
 
-
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Webpages | View website | To be neat | Works as expected |
-<details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
-
 ## Bugs
 
 | **Bugs** | **Fixes** |
