@@ -118,6 +118,12 @@ Including the youtube tutorial i looked around at examples of different quiz for
 ## Features
 
 ### Home Page
+<ul>
+<li>The<strong>Home</strong>page has a very simple structure.</li>
+<li>At the top is a navigation bar consisting of a home icon for users to return.</li>
+<li>The body of the page consists of a welcome message and three buttons.</li>
+<li>These three buttons are links to both quizes and the leaderboard.</li>
+</ul>
 
 ### Mathematics Quiz
 
@@ -319,6 +325,8 @@ The website was tested on the browsers listed below:
 | The iframe for the map had an error of "google.com refused to connect". | Replace map with embedded map.
 | Accessibilty validation revealed a contrast error with level 1 heading. | Change h1 to darker color.
 | Html validation check revealed a warning to give nav section a heading. | Change section elements to divs.
+
+## Unfixed Bugs
 
 ## Deployment
 
