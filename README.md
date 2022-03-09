@@ -230,8 +230,25 @@ The website was tested on the browsers listed below:
 <img src="docs/ustesting/ustest1.jpg"></details>
 
 13. I want the website to be responsive.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 14. I want users to return from 404 page without using browser back button.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 15. I want users to be able to Login and Sign out.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
 
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
