@@ -24,6 +24,9 @@
 10. [Acknowledgements](#acknowledgements)
 
 # Online Quiz
+(Developer: Sean Reid)
+
+<img src="">
 
 ## Project Goals
 
@@ -141,7 +144,24 @@ The website was tested on the browsers listed below:
 
 ### Testing User Stories
 
-1. I expect the website to be clean and clutter-free.
+1. I expect to be able to play a fun game and maybe learn a little.
+2. I want to be able to Login or Sign up.
+3. I want to be able to play on different devices.
+4. I want to be able to see/join a leaderboard.
+5. I expect the questions to be random.
+6. I want to know how far I am into a game.
+7. I want the correct answers to be accurate.
+8. I want to know my score.
+
+#### As A Site Owner
+9. I want to provide a leaderboard for users.
+10. I want users to have a little fun.
+11. I want the website to be interactive.
+12. I want all pages and links to work properly.
+13. I want the website to be responsive.
+14. I want users to return from 404 page without using browser back button.
+15. I want users to be able to Login and Sign out.
+
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
