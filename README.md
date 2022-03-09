@@ -145,11 +145,47 @@ The website was tested on the browsers listed below:
 ### Testing User Stories
 
 1. I expect to be able to play a fun game and maybe learn a little.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 2. I want to be able to Login or Sign up.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 3. I want to be able to play on different devices.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 4. I want to be able to see/join a leaderboard.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 5. I expect the questions to be random.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 6. I want to know how far I am into a game.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest1.jpg"></details>
+
 7. I want the correct answers to be accurate.
 8. I want to know my score.
 
