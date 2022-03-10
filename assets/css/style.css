@@ -7,6 +7,10 @@
     font-family: Kanit, cursive;
 }
 
+body {
+    background: url('assets/pexels-jess-bailey-designs-876467.jpg') 0px 0px/cover;
+}
+
 /*Header*/
 #nav i {
     background-color: rgb(38, 0, 255);
