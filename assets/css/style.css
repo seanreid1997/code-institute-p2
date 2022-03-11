@@ -139,7 +139,7 @@ h2 {
     transform: scale(1.09);
 }
 
-/*Footer with contact form and social media links*/
+/*Footer with contact form and social media*/
 footer{
     background-color: rgb(18, 92, 255);
     clear: both;
@@ -153,6 +153,7 @@ footer a {
     font-size: 3rem;
     display: inline-block;
     padding-bottom: 2rem;
+    padding-left: 1.5rem;
 }
 
 .social {
@@ -162,3 +163,163 @@ footer a {
 .social a {
     padding-right: 35px;
 }
+
+/*Media Queries for screens 320px and below*/
+
+@media screen  and (max-width: 320px){
+    
+    #nav i {
+        background-color: rgb(38, 0, 255);
+        color: black;
+        float: left;
+        padding: 1%;
+        font-size: 5rem;
+        width: 100%;
+        margin-left: -2px;
+        margin-bottom: 5rem;
+    }
+    
+    h1 {
+        font-size: 5.4rem;
+        color: black;
+        margin-bottom: 2rem;
+    }
+    
+    
+    
+    h2 {
+        font-size: 4.2rem;
+        margin-bottom: 4rem;
+        color: black;
+    
+    }
+    
+    .container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 80rem;
+        margin: 0 auto;
+        padding: 2rem;
+    }
+    
+    .flex-column {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .flex-center {
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .justify-center {
+        justify-content: center;
+    }
+    
+    .text-center {
+        text-align: center;
+    }
+    
+    .hidden {
+        display: none;
+    }
+    
+    .games {
+        display: inline;
+    }
+    
+    .btn {
+        display: block;
+        font-size: 4rem;
+        padding: 2rem 0;
+        width: 30rem;
+        text-align: center;
+        margin: 3rem;
+        text-decoration: none;
+        color: rgb(28, 26, 26);
+        background: linear-gradient(90deg, rgb(18, 92, 255) 0%, rgb(0, 102, 255) 100%);
+        border-radius: 4px;
+    }
+    
+    .btn:hover {
+        cursor: pointer;
+        box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
+        transition: transform 150ms;
+        transform: scale(1.03);
+    }
+    
+    .btn[disabled]:hover {
+        cursor: not-allowed;
+        box-shadow: none;
+        transform: none;
+    }
+    
+    #highscore-btn {
+        background: rgba(87, 255, 9, 0.877);
+        margin-bottom: 5rem;
+    }
+    
+    #highscore-btn:hover {
+        box-shadow: 0 0.4rem 1.4rem 0 rgba(43, 255, 0, 0.5)
+    }
+    
+    .fa-crown {
+        font-size: 2.5rem;
+        margin-left: 1rem;
+    }
+    
+    #page404 {
+        text-align: center;
+    }
+    #page404 h1 {
+        letter-spacing: 50px;
+        color: rgb(0, 102, 255);
+        font-size: 250px;
+        font-family: 'PT Serif';
+    }
+    .home-btn {
+        text-decoration: none;
+        background: linear-gradient(90deg, rgb(18, 92, 255) 0%, rgb(0, 102, 255) 100%);
+        color: black;
+        border-radius: 25px;
+        text-transform: uppercase;
+        font-size: 30px;
+        padding: 20px 20px;
+    }
+    
+    .home-btn:hover {
+        cursor: pointer;
+        box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
+        transition: transform 150ms;
+        transform: scale(1.09);
+    }
+    
+    /*Footer with contact form and social media*/
+    footer{
+        background-color: rgb(18, 92, 255);
+        clear: both;
+        margin-top: 10rem;
+        width: 100%;
+    
+    }
+    
+    footer a {
+        color: white;
+        text-decoration: none;
+        font-size: 3rem;
+        display: inline-block;
+        padding-bottom: 2rem;
+    }
+    
+    .social {
+        float: right;
+    }
+    
+    .social a {
+        padding-right: 3rem;
+    }    
+}
+
