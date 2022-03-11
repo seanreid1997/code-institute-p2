@@ -139,15 +139,26 @@ h2 {
     transform: scale(1.09);
 }
 
-footer {
-    background-color: rgb(0, 102, 255);
+/*Footer with contact form and social media links*/
+footer{
+    background-color: rgb(18, 92, 255);
     clear: both;
-    display: block;
+    margin-top: 10rem;
 
 }
 
 footer a {
-    font-size: 5rem;
-    clear: both;
-    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 3rem;
+    display: inline-block;
+    padding-bottom: 2rem;
+}
+
+.social {
+    float: right;
+}
+
+.social a {
+    padding-right: 35px;
 }
