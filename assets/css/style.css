@@ -8,7 +8,7 @@
 }
 
 body {
-    background: url('assets/pexels-jess-bailey-designs-876467.jpg') 0px 0px/cover;
+    background: url('assets/pexels-george-becker-131616.jpg') 0px / cover;
 }
 
 /*Header*/
@@ -101,6 +101,7 @@ h2 {
 
 #highscore-btn {
     background: rgba(87, 255, 9, 0.877);
+    margin-bottom: 5rem;
 }
 
 #highscore-btn:hover {
@@ -136,4 +137,17 @@ h2 {
     box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
     transition: transform 150ms;
     transform: scale(1.09);
+}
+
+footer {
+    background-color: rgb(0, 102, 255);
+    clear: both;
+    display: block;
+
+}
+
+footer a {
+    font-size: 5rem;
+    clear: both;
+    display: block;
 }
