@@ -1,5 +1,5 @@
 body {
-    color: #fff;
+    background: url('assets/pexels-george-becker-131616.jpg') 0px / cover;
 }
 
 .choice-container {
@@ -27,6 +27,7 @@ body {
 .choice-text {
     padding: 2rem;
     width: 100%;
+    color: #fff;
 }
 
 .correct {
