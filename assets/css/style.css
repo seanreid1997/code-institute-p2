@@ -166,7 +166,7 @@ footer a {
 
 /*Media Queries for screens 320px and below*/
 
-@media screen  and (max-width: 320px){
+@media screen  and (max-width: 475px){
     
     #nav i {
         background-color: rgb(38, 0, 255);
