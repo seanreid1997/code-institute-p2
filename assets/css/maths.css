@@ -1,11 +1,11 @@
-body {
-    background: url('assets/pexels-george-becker-131616.jpg') 0px / cover;
+#game {
+    display: flex;
+    flex-direction: column;
 }
-
 .choice-container {
     display: flex;
     margin-bottom: 0.8rem;
-    width: 100%;
+    width: 80%;
     border-radius: 4px;
     background: rgb(18, 93, 255);
     font-size: 3rem;
@@ -66,3 +66,6 @@ body {
     background: rgb(11,223,36);
     width: 0%;
 }
+
+/*Media queries for screens with a max width of 360px*/
+
