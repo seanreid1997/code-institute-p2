@@ -83,7 +83,7 @@ let questions = [{
  * Give variables values from maths.html
  */
 let question = document.querySelector('#question');
-let choices = Array.from(document.querySelectorAll('.choice-text'));
+let choices = Array.from(document.querySelectorAll('.choices'));
 let progressText = document.querySelector('#progressText');
 let scoreText = document.querySelector('#score');
 let progressBarFull = document.querySelector('#progressBarFull');
