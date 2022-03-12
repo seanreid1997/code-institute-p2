@@ -363,6 +363,9 @@ The website was tested on the browsers listed below:
 | Html validation check revealed a warning to give nav section a heading. | Change section elements to divs.
 
 ## Unfixed Bugs
+<ul>
+<li>Bcakground image won't work unless it is directly input into the body element in the html file.</li>
+</ul>
 
 ## Deployment
 
@@ -390,12 +393,14 @@ The site was deployed to GitHub Pages via the following steps:
 <li>The main structure of the website was taken from a youtube tutorial made on the Brian Design channel. <a href="https://www.youtube.com/watch?v=f4fB9Xg2JEY">Brian Design.</a></li>
 <li>The format for my README.md was inspired by Developer Ana Runje.</li>
 <li>All icons used were taken from the Font Awesome Website.</li>
+<li>Background image was a Photo by George Becker from <a href="https://www.pexels.com/photo/kick-chess-piece-standing-131616/">Pexels.com</a></li>
 </ul>
 
 ### Media
 
 ### Acknowledgements
 <ul>
+<li>I would like to thank my mentor Mo Shami for once again guiding me through this project as much as he could despite a tight time frame.</li>
 <li>I would like to thank the Code Institute student care team for the continued support.</li>
 <li>I would like to thank Youtuber Brian from Brian Design for posting a tutorial on how to make a quiz via javascript.</li>
 </ul>
