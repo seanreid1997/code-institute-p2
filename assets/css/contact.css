@@ -9,8 +9,9 @@
    padding-bottom: 20rem;
 }
 .btn-primary{
-    font-size: 1.5rem;
-    clear: both;
+    font-size: 2rem;
+    text-align: center;
+
 }
 
 #feedback {
