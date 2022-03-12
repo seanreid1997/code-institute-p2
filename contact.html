@@ -16,20 +16,24 @@
 </head>
 <body style="background: url('assets/images/pexels-george-becker-131616.jpg') 0px / cover;">
     <!--Header-->
-    <div id="nav">
+    <div id="nav" class="contactnav">
         <a href="index.html"><i class="fas fa-home"></i></a>
     </div>
 
     <form>
         <div class="mb-3">
-          <label for="email" class="form-label">Email address:</label>
+            <label for="name" class="form-label">Name:</label><br>
+            <input type="text" class="form-control" id="name">
+          </div>
+        <div class="mb-3">
+          <label for="email" class="form-label-email">Email address:</label><br>
           <input type="email" class="form-control" id="email" aria-describedby="emailHelp">
         </div>
         <div class="mb-3">
-          <label for="password" class="form-label">Password:</label>
-          <input type="password" class="form-control" id="password">
+            <label for="feedback" class="form-label">Feedback:</label><br>
+            <textarea id="feedback" name="feedback" placeholder="Write something.."></textarea><br>
         </div>
-        <textarea id="feedback" name="feedback" placeholder="Write something.."></textarea><br>
+        
         <button type="submit" class="btn btn-primary">Submit</button>
       </form>
 

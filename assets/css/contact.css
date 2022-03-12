@@ -1,13 +1,19 @@
 .mb-3 {
     color: white;
     font-size: 4rem;
+    display: block;
+    text-align: center;
 }
 
-.mb-3 #email {
-    margin-top: 20rem;
+.contactnav {
+   padding-bottom: 20rem;
 }
-
 .btn-primary{
     font-size: 1.5rem;
     clear: both;
+}
+
+#feedback {
+    height: 250px;
+    width: 600px;
 }
