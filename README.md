@@ -193,9 +193,9 @@ Including the youtube tutorial i looked around at examples of different quiz for
 #### HTML
 Html was validated via The WC3 Markup Validation Service.
 <details><summary>Home</summary>
-<img src="docs/validation/indexvalid.jpg"></details>
-<details><summary>History</summary>
-<img src="docs/validation/historyvalid.jpg"></details>
+<img src="docs/validation/p2homevalid.jpg"></details>
+<details><summary>Maths Quiz</summary>
+<img src="docs/validation/p2mathvalid.jpg"></details>
 <details><summary>Gallery</summary>
 <img src="docs/validation/galleryvalid.jpg"></details>
 <details><summary>404</summary>
