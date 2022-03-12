@@ -128,6 +128,8 @@ Including the youtube tutorial i looked around at examples of different quiz for
 ### Frameworks and Tools
 <ul>
 <li>Balsamiq</li>
+<li>Bootstrap</li>
+<li>Emailjs API</li>
 <li>FontAwesome</li>
 <li>Git</li>
 <li>Github</li>
