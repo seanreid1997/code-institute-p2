@@ -26,7 +26,7 @@
 # Sean's Games
 (Developer: Sean Reid)
 
-<img src="">
+<img src="docs/p2live.jpg">
 <a href="https://seanreid1997.github.io/code-institute-p2/">Live Website</a>
 
 ## Project Goals
@@ -172,6 +172,19 @@ Including the youtube tutorial i looked around at examples of different quiz for
 <li>It consists of an error message and a button to return home without using browser back button.</li>
 </ul>
 <img src="docs/features/404page.jpg"></details>
+
+### footer
+<ul>
+<li>At the bottom of every page is a footer.</li>
+<li>Within this footer are links to social media and a contact us page.</li>
+</ul>
+<img src="docs/features/p2footer.jpg">
+
+### Contact page
+<ul>
+<li>On the contact page is a simple form for anyone to leave feedback.</li>
+</ul>
+<img src="docs/features/p2contact.jpg">
 
 ## Testing
 
