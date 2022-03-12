@@ -196,22 +196,34 @@ Including the youtube tutorial i looked around at examples of different quiz for
 Html was validated via The WC3 Markup Validation Service.
 <details><summary>Home</summary>
 <img src="docs/validation/p2homevalid.jpg"></details>
-<details><summary>Maths</summary>
+<details><summary>Maths Quiz</summary>
 <img src="docs/validation/p2mathvalid.jpg"></details>
-<details><summary>Gallery</summary>
-<img src="docs/validation/galleryvalid.jpg"></details>
+<details><summary>Contact page</summary>
+<img src="docs/validation/contactvalid.jpg"></details>
 <details><summary>404</summary>
-<img src="docs/404/404valid.jpg"></details>
+<img src="docs/validation/404valid.jpg"></details>
+<details><summary>Summary</summary>
+<img src="docs/validation/.jpg"></details>
 
 ### CSS
 
 Css was validated via The WC3 CSS Validation Service.
-<details><summary>Css</summary>
-<img src="docs/validation/cssvalid.jpg"></details>
+<details><summary>Home</summary>
+<img src="docs/validation/p2homecssvalid.jpg"></details>
+<details><summary>Maths Quiz</summary>
+<img src="docs/validation/p2mathcssvalid.jpg"></details>
+<details><summary>Contact page</summary>
+<img src="docs/validation/contactcssvalid.jpg"></details>
+<details><summary>404</summary>
+<img src="docs/validation/404cssvalid.jpg"></details>
+<details><summary>Summary page</summary>
+<img src="docs/validation/summarycssvalid.jpg"></details>
 
 ### Javascript
 Javascript was validated via JSHint JavaScript Validator
-<details><summary>Css</summary>
+<details><summary>contact</summary>
+<img src="docs/validation/contactjsvalid.jpg"></details>
+<details><summary>math</summary>
 <img src="docs/validation/cssvalid.jpg"></details>
 
 ### Accessablility
@@ -253,7 +265,7 @@ The website was tested on the browsers listed below:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Webpages | View website | To be neat | Works as expected |
+| Webpages | games | To work| Works as expected |
 <details><summary>Screenshots</summary>
 <img src="docs/testUserStory/userStoryTest1.jpg"></details>
 
@@ -342,7 +354,7 @@ The website was tested on the browsers listed below:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Webpages | View website | To be neat | Works as expected |
+| Webpages | View website | all links to work| Works as expected |
 <details><summary>Screenshots</summary>
 <img src="docs/testUserStory/userStoryTest12.jpg"></details>
 
@@ -350,7 +362,7 @@ The website was tested on the browsers listed below:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Webpages | View website | To be neat | Works as expected |
+| website | be responsive | be perfectly responsive | incomplete |
 <details><summary>Screenshots</summary>
 <img src="docs/p2live.jpg"></details>
 
@@ -358,7 +370,7 @@ The website was tested on the browsers listed below:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Webpages | View website | To be neat | Works as expected |
+| 404 | return home without using browser back | return to home without browser back | Works as expected |
 <details><summary>Screenshots</summary>
 <img src="docs/testUserStory/userStoryTest14.jpg"></details>
 
@@ -366,7 +378,7 @@ The website was tested on the browsers listed below:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Webpages | View website | To be neat | Works as expected |
+| nav | return home | return to home page | Works as expected |
 <details><summary>Screenshots</summary>
 <img src="docs/features/p2nav.jpg"></details>
 
@@ -374,9 +386,8 @@ The website was tested on the browsers listed below:
 
 | **Bugs** | **Fixes** |
 | -------- | --------- |
-| The iframe for the map had an error of "google.com refused to connect". | Replace map with embedded map.
-| Accessibilty validation revealed a contrast error with level 1 heading. | Change h1 to darker color.
-| Html validation check revealed a warning to give nav section a heading. | Change section elements to divs.
+
+
 
 ## Unfixed Bugs
 <ul>
@@ -419,6 +430,11 @@ The site was deployed to GitHub Pages via the following steps:
 <li>I would like to thank my mentor Mo Shami for once again guiding me through this project as much as he could despite a tight time frame.</li>
 <li>I would like to thank the Code Institute student care team for the continued support.</li>
 <li>I would like to thank Youtuber Brian from Brian Design for posting a tutorial on how to make a quiz via javascript.</li>
+</ul>
+
+### Additional Notes
+<ul>
+<li>Project is incomplete.</li>
 </ul>
 
 

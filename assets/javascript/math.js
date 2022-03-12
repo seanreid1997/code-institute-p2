@@ -123,8 +123,8 @@ function startGame(){
     question.innerText = currentQuestion.question;
 
     choices.forEach(choice => {
-        let number = choice.dataset['number']
-        choice.innerText = currentQuestion['choice' + number]
+        let number = choice.dataset['number'];
+        choice.innerText = currentQuestion['choice' + number];
     })
 
     mathQuestions.splice(questionsIndex, 1);
@@ -133,12 +133,12 @@ function startGame(){
 
 choices.forEach(choice => {
     choice.addEventListener('click', e => {
-        if(!answers) return
+        if(!answers) return;
 
-        answers = false
-        let selectedChoice = e.target
-        let selectedAnswer = selectedChoice.dataset['number']
-        let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
+        answers = false;
+        let selectedChoice = e.target;
+        let selectedAnswer = selectedChoice.dataset['number'];
+        let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 
         if(classToApply === 'correct') {
             incrementScore(points);
@@ -147,8 +147,8 @@ choices.forEach(choice => {
         selectedChoice.parentElement.classList.add(classToApply)
 
         setTimeout(() => {
-            selectedChoice.parentElement.classList.remove(classToApply)
-            newQuestion()
+            selectedChoice.parentElement.classList.remove(classToApply);
+            newQuestion();
 
         }, 100)
     })
