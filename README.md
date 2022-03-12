@@ -66,7 +66,7 @@
 
 #### As A User
 1. I expect to be able to play a fun game and maybe learn a little.
-2. I want to be able to Login or Sign up.
+2. I want to be able to leave feedback.
 3. I want to be able to play on different devices.
 4. I want to be able to see/join a leaderboard.
 5. I expect the questions to be random.

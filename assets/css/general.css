@@ -65,3 +65,7 @@ body {
     background: rgb(11,223,36);
     width: 0%;
 }
+
+.hud-prefix {
+    color: #fff;
+}
