@@ -322,7 +322,7 @@ The website was tested on the browsers listed below:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Webpages | View website | To be neat | Works as expected |
+| Score | Play game | See score  | Works as expected |
 <details><summary>Screenshots</summary>
 <img src="docs/testUserStory/userStoryTest8.jpg"></details>
 
@@ -346,7 +346,7 @@ The website was tested on the browsers listed below:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Webpages | View website | To be neat | Works as expected |
+| Webpages | be interactive | be interactive | Preferably a bit more interactive |
 <details><summary>Screenshots</summary>
 <img src="docs/testUserStory/userStoryTest5ii.jpg"></details>
 
