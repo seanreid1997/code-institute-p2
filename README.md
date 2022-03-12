@@ -194,7 +194,7 @@ Including the youtube tutorial i looked around at examples of different quiz for
 Html was validated via The WC3 Markup Validation Service.
 <details><summary>Home</summary>
 <img src="docs/validation/p2homevalid.jpg"></details>
-<details><summary>Maths Quiz</summary>
+<details><summary>Maths</summary>
 <img src="docs/validation/p2mathvalid.jpg"></details>
 <details><summary>Gallery</summary>
 <img src="docs/validation/galleryvalid.jpg"></details>
