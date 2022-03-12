@@ -253,7 +253,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest1.jpg"></details>
 
 2. I want to be able to Login or Sign up.
 
@@ -261,7 +261,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest1.jpg"></details>
 
 3. I want to be able to play on different devices.
 
@@ -269,7 +269,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest1.jpg"></details>
 
 4. I want to be able to see/join a leaderboard.
 
@@ -277,7 +277,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest1.jpg"></details>
 
 5. I expect the questions to be random.
 
@@ -285,7 +285,8 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest5.jpg"></details>
+<img src="docs/testUserStory/userStoryTest5ii.jpg"></details>
 
 6. I want to know how far I am into a game.
 
@@ -293,7 +294,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest6.jpg"></details>
 
 7. I want the correct answers to be accurate.
 
@@ -301,7 +302,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest7.jpg"></details>
 
 8. I want to know my score.
 
@@ -309,7 +310,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest8.jpg"></details>
 
 9. I want to provide a leaderboard for users.
 
@@ -317,7 +318,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest9.jpg"></details>
 
 10. I want users to have a little fun.
 
@@ -325,7 +326,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest1.jpg"></details>
 
 11. I want the website to be interactive.
 
@@ -333,7 +334,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest5ii.jpg"></details>
 
 12. I want all pages and links to work properly.
 
@@ -341,7 +342,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest12.jpg"></details>
 
 13. I want the website to be responsive.
 
@@ -349,7 +350,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/p2live.jpg"></details>
 
 14. I want users to return from 404 page without using browser back button.
 
@@ -357,15 +358,15 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/testUserStory/userStoryTest14.jpg"></details>
 
-15. I want users to be able to Login and Sign out.
+15. I want users to be able return to home at any point.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest1.jpg"></details>
+<img src="docs/features/p2nav.jpg"></details>
 
 ## Bugs
 
