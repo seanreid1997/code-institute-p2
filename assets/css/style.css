@@ -7,10 +7,6 @@
     font-family: Kanit, cursive;
 }
 
-body {
-    background: url('assets/pexels-george-becker-131616.jpg') 0px / cover;
-}
-
 /*Header*/
 #nav i {
     background-color: rgb(38, 0, 255);
@@ -24,16 +20,14 @@ body {
 
 h1 {
     font-size: 5.4rem;
-    color: black;
+    color: #fff;
     margin-bottom: 5rem;
 }
-
-
 
 h2 {
     font-size: 4.2rem;
     margin-bottom: 4rem;
-    color: black;
+    color: #fff;
 
 }
 
@@ -137,6 +131,13 @@ h2 {
     box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 114, 244, 0.6);
     transition: transform 150ms;
     transform: scale(1.09);
+}
+
+#end {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 /*Footer with contact form and social media*/

@@ -18,6 +18,19 @@
     <div id="nav">
         <a href="index.html"><i class="fas fa-home"></i></a>
     </div>
+    
+    <div class="container">
+        <div id="end">
+            <h1 id="finalScore">0</h1>
+            <form class="end-form-container">
+                <h2 id="end-text">Enter your name below to save your score!</h2>
+                <input type="text" name="name" id="username" placeholder="Enter your name">
+                <button class="btn" id="saveScoreBtn" type="submit" onclick="saveHighScore(event)" disabled>Save</button>
+            </form>
+            <a href="maths.html" class="btn">Play Again</a>
+            <a href="index.html" class="btn">Home</a>
+        </div>
+    </div>
 
     <footer>
         <a href="#">Contact Us</a>
@@ -26,8 +39,9 @@
         <a href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
         <a href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a>
     </div>
-</footer>
+    </footer>
     
+    <script src="assets/javascript/summary.js"></script>
     <script src="https://kit.fontawesome.com/d15acb58b5.js" crossorigin="anonymous"></script>
 </body>
 </html>
