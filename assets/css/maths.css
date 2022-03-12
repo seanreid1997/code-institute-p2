@@ -71,5 +71,21 @@
     color: #fff;
 }
 
-/*Media queries for screens with a max width of 360px*/
+/*Media queries for screens with a max width of 780px*/
+@media screen and (max-width: 768px){
+    #game {
+        width: 90%;
+        margin: 2rem
+    }
+
+    .choice-container {
+        display: flex;
+        margin-bottom: 0.8rem;
+        width: 80%;
+        border-radius: 4px;
+        background: rgb(18, 93, 255);
+        font-size: 3rem;
+        overflow: hidden;
+    }
+    }
 

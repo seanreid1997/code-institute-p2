@@ -20,6 +20,9 @@ function toggleThankYouMessage() {
     let html = `
             <div class="contact-message">
             <h1>Thank you for your feedback. Please feel free to try again.</h1>
+            </div>
+            <div class="btn btn-home">
+            <a href="index.html">Home</a>
             </div>`;
     document.getElementById('container').innerHTML = html;
 }

@@ -92,7 +92,7 @@ let currentQuestion = {};
 let answers = true;
 let score = 0;
 let questionCounter = 0;
-let availableQuestions = [];
+let mathQuestions = [];
 let points = 10;
 let maxQuestions = 10;
 
@@ -100,9 +100,9 @@ let maxQuestions = 10;
  * Starts the game
  */
 function startGame(){
-   questionCounter = 0
-   score = 0
-   availableQuestions = [...questions]
+   questionCounter = 0;
+   score = 0;
+   mathQuestions = questions;
    newQuestion();
 }
 
@@ -110,7 +110,7 @@ function startGame(){
  * Generates a new random question from the questions array
  */
   function newQuestion() {
-    if(availableQuestions.length === 0) {
+    if(mathQuestions.length === 0) {
         localStorage.setItem('mostRecentScore', score);
         return window.location.assign('summary.html');
     }
@@ -118,8 +118,8 @@ function startGame(){
     progressText.innerText = `Question ${questionCounter} of ${maxQuestions}`;
     progressBarFull.style.width = `${(questionCounter/maxQuestions) * 100}%`;
 
-    let questionsIndex = Math.floor(Math.random() * availableQuestions.length);
-    currentQuestion = availableQuestions[questionsIndex];
+    let questionsIndex = Math.floor(Math.random() * mathQuestions.length);
+    currentQuestion = mathQuestions[questionsIndex];
     question.innerText = currentQuestion.question;
 
     choices.forEach(choice => {
@@ -127,7 +127,7 @@ function startGame(){
         choice.innerText = currentQuestion['choice' + number]
     })
 
-    availableQuestions.splice(questionsIndex, 1);
+    mathQuestions.splice(questionsIndex, 1);
     answers = true;
 }
 

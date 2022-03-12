@@ -13,7 +13,20 @@
     text-align: center;
 }
 
+.contact-message {
+    margin: 15rem 0;
+    text-align: center;
+}
 
+.btn-home {
+    display: block;
+    text-align: center;
+}
+.btn-home a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 4rem;
+}
 
 #feedback {
     height: 250px;

@@ -182,7 +182,7 @@ footer a {
     
     h1 {
         font-size: 5.4rem;
-        color: black;
+        color: #fff;
         margin-bottom: 2rem;
     }
     
@@ -191,7 +191,7 @@ footer a {
     h2 {
         font-size: 4.2rem;
         margin-bottom: 4rem;
-        color: black;
+        color: #fff;
     
     }
     
@@ -322,4 +322,3 @@ footer a {
         padding-right: 3rem;
     }    
 }
-
