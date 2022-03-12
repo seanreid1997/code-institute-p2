@@ -9,6 +9,7 @@
     <meta name="author" content="Sean Reid">
 
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/summary.css">
     <link rel="shortcut icon" type="image/jpg" href="docs/favicon.ico"/>
     
     <title>Sean's Games</title>
@@ -20,15 +21,20 @@
     </div>
     
     <div class="container">
-        <div id="end">
-            <h1 id="finalScore">0</h1>
-            <form class="end-form-container">
-                <h2 id="end-text">Enter your name below to save your score!</h2>
-                <input type="text" name="name" id="username" placeholder="Enter your name">
-                <button class="btn" id="saveScoreBtn" type="submit" onclick="saveHighScore(event)" disabled>Save</button>
+        <div class="summary">
+            <h2>Your score:
+                <h1 id="finalScore">0</h1>
+            </h2>
+            
+            <form class="summary-form-container">
+                <input type="text" name="name" id="username" placeholder="enter your name"><br>
+                <button class="btn" id="saveScoreBtn" type="submit" onclick="saveHighScore(event)" disabled>Save</button><br>
             </form>
-            <a href="maths.html" class="btn">Play Again</a>
-            <a href="index.html" class="btn">Home</a>
+            <div class="return">
+                <a href="maths.html" class="btn btn-play">Play Again</a><br>
+                <a href="index.html" class="btn btn-home">Home</a>
+            </div>
+            
         </div>
     </div>
 

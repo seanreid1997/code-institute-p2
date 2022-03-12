@@ -1,0 +1,22 @@
+.summary {
+    display: block;
+}
+
+#username {
+    font-size: 3rem;
+}
+
+.return {
+    padding-top: 3rem;
+}
+.btn {
+    font-size: 4rem;
+    padding: 2rem 0;
+    width: 30rem;
+    text-align: center;
+    margin: 3rem;
+    text-decoration: none;
+    color: rgb(28, 26, 26);
+    background: linear-gradient(90deg, rgb(18, 92, 255) 0%, rgb(0, 102, 255) 100%);
+    border-radius: 4px;
+}

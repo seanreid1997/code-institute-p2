@@ -81,7 +81,7 @@
 12. I want all pages and links to work properly.
 13. I want the website to be responsive.
 14. I want users to return from 404 page without using browser back button.
-15. I want users to be able to Login and Sign out.
+15. I want users to be able return to home at any point.
 
 ## Design
 
